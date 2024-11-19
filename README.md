@@ -1,4 +1,4 @@
-#Coffee Sales Analysis Project by Piotr Jagielski
+# Coffee Sales Analysis Project by Piotr Jagielski
 
 This project provides a comprehensive analysis of coffee sales data using Excel. The goal is to track, analyze, and visualize coffee sales trends, helping businesses make data-driven decisions to optimize sales and improve performance.
 
