@@ -9,8 +9,8 @@ Sales by region or sales representative
 
 This repository contains two main files:
 
-Raw Data File: A file with the unprocessed sales data coffeeOrdersData.xlsx
-Prepared File: A ready-to-use file with cleaned data and pre-built analysis for easy access and reporting coffeeOrdersProject.xlsx
+ Raw Data File: A file with the unprocessed sales data coffeeOrdersData.xlsx
+ Prepared File: A ready-to-use file with cleaned data and pre-built analysis for easy access and reporting coffeeOrdersProject.xlsx
     
 Contact
 For any questions, you can reach me at [peterjjagielski@gmail.com].
