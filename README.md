@@ -1,4 +1,4 @@
-Coffee Sales Analysis Project
+#Coffee Sales Analysis Project by Piotr Jagielski
 
 This project provides a comprehensive analysis of coffee sales data using Excel. The goal is to track, analyze, and visualize coffee sales trends, helping businesses make data-driven decisions to optimize sales and improve performance.
 
@@ -12,4 +12,5 @@ This repository contains two main files:
     Raw Data File: A file with the unprocessed sales data coffeeOrdersData.xlsx
     Prepared File: A ready-to-use file with cleaned data and pre-built analysis for easy access and reporting coffeeOrdersProject.xlsx
     
-Feel free to contribute to this project, open issues, or submit pull requests.
+Contact
+For any questions, you can reach me at [peterjjagielski@gmail.com].
